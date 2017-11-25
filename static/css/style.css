@@ -28,6 +28,10 @@
           position: relative;
         }
 
+        .article {
+            text-align: center;
+        }
+
         #contact input[type="text"],
         #contact input[type="email"],
         #contact input[type="tel"],
